@@ -8,9 +8,11 @@ Our main motivation is the financial burden of college applications on students.
 
 ## Binary Classification
 Binary classification is one of the most popular implementations of machine learning. It is a supervised learning algorithm which classifies a set of examples into two groups or classes. The prediction is based on a the chosen binary classification algorithm. We will explore several of these algorithms such as:
-Logistic Regression
-K-Nearest Neighbors
-Decision Tree Classifier
+<br>
+- Logistic Regression
+- K-Nearest Neighbors
+- Decision Tree Classifier
 Our problem can easily be cast as a binary classification task.
+<br>
 Our dataset includes a 'Chance of Admit' column which represents the probability that a student will be granted admission to the university. We can map these percentages to another column which marks a row as 0 if the percentage is less than 0.5, and 1 otherwise, where 0 represents that the student is unlikely to be admitted and 1 is the contrary.
-Binary Classification has a broad scope of applications beyond admissions statistics. This includes, but is not limited to email spam classification, credit card fraud, quality control, and more.
+
